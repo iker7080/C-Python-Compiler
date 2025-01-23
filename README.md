@@ -3,7 +3,7 @@ This C++ program receives a .py file and outputs the results. It can evaluate ex
 
 ## To run:
 -Open file in terminal
--Run the following code:
+-Run the following commands:
   -G++ mypython.cpp -o mypython
   -./mypython <name of python file>
 -Use the testcases on this repository (example: in01.py) or build your own testcases.
